@@ -1,0 +1,6 @@
+{
+  "name": "QuickMart - 10-Min Grocery Delivery",
+  "description": "Instant 10-minute grocery delivery with Firestore cloud persistence, Gemini AI recipe bundle planner, smart nutritional substitutions, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
